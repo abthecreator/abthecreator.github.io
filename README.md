@@ -1,4 +1,6 @@
-# About me
+# Ab the Creator
+
+## About me
 
 I've always been fascinated by data. As we move deeper into the digital age, it’s clear that data will continue to shape how we live, work, and think. I want to be part of the cohort shaping that future—by extracting powerful insights from data and asking meaningful questions along the way.
 For years, my interest in data was mostly philosophical. I found myself pondering questions like:
